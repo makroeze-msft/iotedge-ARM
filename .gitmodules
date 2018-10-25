@@ -142,3 +142,6 @@
 [submodule "backtrace-rs"]
 	path = backtrace-rs
 	url = https://github.com/makroeze-msft/backtrace-rs.git
+[submodule "chrono-humanize-rs"]
+	path = chrono-humanize-rs
+	url = https://github.com/makroeze-msft/chrono-humanize-rs.git
