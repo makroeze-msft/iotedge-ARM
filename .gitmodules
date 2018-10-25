@@ -1,0 +1,144 @@
+[submodule "atty"]
+	path = atty
+	url = https://github.com/makroeze-msft/atty.git
+[submodule "bytes"]
+	path = bytes
+	url = https://github.com/makroeze-msft/bytes.git
+[submodule "chrono"]
+	path = chrono
+	url = https://github.com/makroeze-msft/chrono.git
+[submodule "clap"]
+	path = clap
+	url = https://github.com/makroeze-msft/clap.git
+[submodule "cmake-rs"]
+	path = cmake-rs
+	url = https://github.com/makroeze-msft/cmake-rs.git
+[submodule "config-rs"]
+	path = config-rs
+	url = https://github.com/makroeze-msft/config-rs.git
+[submodule "dtoa"]
+	path = dtoa
+	url = https://github.com/makroeze-msft/dtoa.git
+[submodule "env_logger"]
+	path = env_logger
+	url = https://github.com/makroeze-msft/env_logger.git
+[submodule "error-chain"]
+	path = error-chain
+	url = https://github.com/makroeze-msft/error-chain.git
+[submodule "failure"]
+	path = failure
+	url = https://github.com/makroeze-msft/failure.git
+[submodule "h2"]
+	path = h2
+	url = https://github.com/makroeze-msft/h2.git
+[submodule "hjson-rust"]
+	path = hjson-rust
+	url = https://github.com/makroeze-msft/hjson-rust.git
+[submodule "http"]
+	path = http
+	url = https://github.com/makroeze-msft/http.git
+[submodule "hyper"]
+	path = hyper
+	url = https://github.com/makroeze-msft/hyper.git
+[submodule "hyper-old-types"]
+	path = hyper-old-types
+	url = https://github.com/makroeze-msft/hyper-old-types.git
+[submodule "hyper-tls"]
+	path = hyper-tls
+	url = https://github.com/makroeze-msft/hyper-tls.git
+[submodule "iovec"]
+	path = iovec
+	url = https://github.com/makroeze-msft/iovec.git
+[submodule "iovec-backport"]
+	path = iovec-backport
+	url = https://github.com/makroeze-msft/iovec-backport.git
+[submodule "json"]
+	path = json
+	url = https://github.com/makroeze-msft/json.git
+[submodule "mio"]
+	path = mio
+	url = https://github.com/makroeze-msft/mio.git
+[submodule "mio-named-pipes"]
+	path = mio-named-pipes
+	url = https://github.com/makroeze-msft/mio-named-pipes.git
+[submodule "mio-nonbroken"]
+	path = mio-nonbroken
+	url = https://github.com/makroeze-msft/mio-nonbroken.git
+[submodule "miow"]
+	path = miow
+	url = https://github.com/makroeze-msft/miow.git
+[submodule "native-tls"]
+	path = native-tls
+	url = https://github.com/makroeze-msft/native-tls.git
+[submodule "net2-rs"]
+	path = net2-rs
+	url = https://github.com/makroeze-msft/net2-rs.git
+[submodule "nix"]
+	path = nix
+	url = https://github.com/makroeze-msft/nix.git
+[submodule "parking_lot"]
+	path = parking_lot
+	url = https://github.com/makroeze-msft/parking_lot.git
+[submodule "rand"]
+	path = rand
+	url = https://github.com/makroeze-msft/rand.git
+[submodule "regex"]
+	path = regex
+	url = https://github.com/makroeze-msft/regex.git
+[submodule "rust-native-tls"]
+	path = rust-native-tls
+	url = https://github.com/makroeze-msft/rust-native-tls.git
+[submodule "schannel-rs"]
+	path = schannel-rs
+	url = https://github.com/makroeze-msft/schannel-rs.git
+[submodule "serde-yaml"]
+	path = serde-yaml
+	url = https://github.com/makroeze-msft/serde-yaml.git
+[submodule "socket2-rs"]
+	path = socket2-rs
+	url = https://github.com/makroeze-msft/socket2-rs.git
+[submodule "termcolor"]
+	path = termcolor
+	url = https://github.com/makroeze-msft/termcolor.git
+[submodule "thread_local-rs"]
+	path = thread_local-rs
+	url = https://github.com/makroeze-msft/thread_local-rs.git
+[submodule "time"]
+	path = time
+	url = https://github.com/makroeze-msft/time.git
+[submodule "tokio"]
+	path = tokio
+	url = https://github.com/makroeze-msft/tokio.git
+[submodule "tokio-core"]
+	path = tokio-core
+	url = https://github.com/makroeze-msft/tokio-core.git
+[submodule "tokio-forward"]
+	path = tokio-forward
+	url = https://github.com/makroeze-msft/tokio-forward.git
+[submodule "tokio-proto"]
+	path = tokio-proto
+	url = https://github.com/makroeze-msft/tokio-proto.git
+[submodule "tokio-signal"]
+	path = tokio-signal
+	url = https://github.com/makroeze-msft/tokio-signal.git
+[submodule "tokio-tls"]
+	path = tokio-tls
+	url = https://github.com/makroeze-msft/tokio-tls.git
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/makroeze-msft/vcpkg.git
+[submodule "winapi-rs"]
+	path = winapi-rs
+	url = https://github.com/makroeze-msft/winapi-rs.git
+[submodule "winapi-util"]
+	path = winapi-util
+	url = https://github.com/makroeze-msft/winapi-util.git
+[submodule "windows-service-rs"]
+	path = windows-service-rs
+	url = https://github.com/makroeze-msft/windows-service-rs.git
+[submodule "Azure-IoT-Edge-Core"]
+	path = Azure-IoT-Edge-Core
+	url = https://github.com/makroeze-msft/Azure-IoT-Edge-Core.git
+[submodule "backtrace-rs"]
+	path = backtrace-rs
+	url = https://github.com/makroeze-msft/backtrace-rs.git
